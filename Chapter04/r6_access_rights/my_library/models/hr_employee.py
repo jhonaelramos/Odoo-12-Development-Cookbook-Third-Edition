@@ -4,10 +4,10 @@ from datetime import date, datetime
 import logging
 #import qrcode
 
-try:
-    import cStringIO as StringIO
-except ImportError:
-    import StringIO
+#try:
+#    import cStringIO as StringIO
+#except ImportError:
+#    import StringIO
 	
 from uuid import uuid4
 from odoo import api, fields, models
