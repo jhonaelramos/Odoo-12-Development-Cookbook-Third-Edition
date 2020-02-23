@@ -7,7 +7,7 @@
     'website': "https://www.ffminfante.org.ve",
     'category': 'social',
     'version': '12.0.1',
-    'depends': ['base'],
+    'depends': ['base','hr'],
     # This data files will be loaded at the installation (commented becaues file is not added in this example)
     'data': [
         #'security/groups.xml',
